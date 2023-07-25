@@ -77,18 +77,18 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "GB-Wheels is a platform for buying and selling cars.",
-        link: "https://gbwheels.com",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "Website develop for sid-assist.",
-        link: "https://sidassist.com/",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "Website for Grey Matter Ventures.",
-        link: "https://greymatter.com.pk/",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
@@ -110,7 +110,32 @@ const dataportfolio = [{
         img: "https://picsum.photos/400/600/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
-    }  
+    },
+    {
+        img: "https://picsum.photos/400/300/?grayscale",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://picsum.photos/400/?grayscale",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://picsum.photos/400/550/?grayscale",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://picsum.photos/400/?grayscale",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://picsum.photos/400/700/?grayscale",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
 ];
 
 const contactConfig = {
