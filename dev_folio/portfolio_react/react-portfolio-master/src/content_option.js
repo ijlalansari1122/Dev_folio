@@ -153,6 +153,7 @@ const socialprofils = {
     github: "https://github.com/ijlalansari1122",
     linkedin: "https://linkedin.com/in/ijlal-ansari-56b0371b0",
     twitter: "https://twitter.com/IjlalAnsari1",
+    upwork:"https://www.upwork.com/freelancers/~015c465287d15f91be"
 };
 export {
     meta,

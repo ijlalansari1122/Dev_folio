@@ -7,6 +7,7 @@ import {
   FaLinkedin,
   FaYoutube,
   FaTwitch,
+  FaFreeCodeCamp
 } from "react-icons/fa";
 import { socialprofils } from "../../content_option";
 
@@ -28,10 +29,10 @@ export const Socialicons = (params) => {
             </a>
           </li>
         )}
-        {socialprofils.facebook && (
+        {socialprofils.upwork && (
           <li>
-            <a href={socialprofils.facebook}>
-              <FaFacebookF />
+            <a href={socialprofils.upwork}>
+              <FaFreeCodeCamp />
             </a>
           </li>
         )}
@@ -49,13 +50,7 @@ export const Socialicons = (params) => {
             </a>
           </li>
         )}
-        {socialprofils.twitch && (
-          <li>
-            <a href={socialprofils.twitch}>
-              <FaTwitch />
-            </a>
-          </li>
-        )}
+        
       </ul>
       <p>Follow Me</p>
     </div>
